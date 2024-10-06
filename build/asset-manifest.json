@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e000589f.css",
+    "main.js": "/static/js/main.7e3d49ab.js",
+    "static/js/453.76c14239.chunk.js": "/static/js/453.76c14239.chunk.js",
+    "static/media/Munafa_Rulebook.pdf": "/static/media/Munafa_Rulebook.098992567c6177d0856d.pdf",
+    "static/media/BossMunafa.png": "/static/media/BossMunafa.c1c4156d00328c4dc174.png",
+    "static/media/PSF25 Black-01.png": "/static/media/PSF25 Black-01.b8cb34480b6c39b7d3fd.png",
+    "static/media/E Cell Logo-black.png": "/static/media/E Cell Logo-black.8903f8819704dbf4d544.png",
+    "static/media/coep tech black.png": "/static/media/coep tech black.b852b37f0e118840d222.png",
+    "index.html": "/index.html",
+    "main.e000589f.css.map": "/static/css/main.e000589f.css.map",
+    "main.7e3d49ab.js.map": "/static/js/main.7e3d49ab.js.map",
+    "453.76c14239.chunk.js.map": "/static/js/453.76c14239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e000589f.css",
+    "static/js/main.7e3d49ab.js"
+  ]
+}
