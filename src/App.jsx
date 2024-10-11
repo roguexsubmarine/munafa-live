@@ -4,6 +4,7 @@ import DATA_DISPLAY from "./components/DATA_DISPLAY";
 import SOCIALS from "./components/SOCIALS";
 import FOOTER from "./components/FOOTER";
 import DESCRIPTION from "./components/DESCRIPTION";
+import FOOT from "./components/FOOT";
 
 function App() {
   return (
@@ -21,8 +22,11 @@ function App() {
           <SOCIALS />
           <FOOTER />
 
+          
+
         </div>
       </div>
+      <FOOT />
     </>
   );
 }
